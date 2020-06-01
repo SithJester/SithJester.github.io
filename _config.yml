@@ -1,12 +1,12 @@
 # --- Basic options --- #
 
 # Name of website
-title: Data Processing 
-             by
+title: Data Exploration 
+             with
         Michael Brown
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A documentation of the journey into Data Science, complimented by a catalogue of projects authored by Mr.Brown
 
 # Your name to show in the footer
 author: Michael Brown
@@ -43,9 +43,9 @@ social-network-links:
   rss: true
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali
+  github: https://github.com/SithJester
   twitter: daattali
-  linkedin: daattali
+  linkedin: www.linkedin.com/in/MBrownProfessional
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
