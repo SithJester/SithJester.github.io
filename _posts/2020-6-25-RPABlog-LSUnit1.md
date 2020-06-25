@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How likely is A.I. to replace our workforce?
+title:How likely is A.I. to replace our workforce?
 subtitle: An exploration of occupations at risk of automation.
 gh-repo: SithJester/BuildUnit1
 gh-badge: [star, follow]
