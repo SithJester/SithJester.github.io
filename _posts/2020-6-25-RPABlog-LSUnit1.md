@@ -38,3 +38,6 @@ The job sectors that are most likely to be automated are those that include occu
 Of all the occupations measured, those with a probability of automation above 75%, account for almost half(48%) of the entire workforce represented. It is clear that RPA tools are becoming the go-to solution for improving upon business logic.
 
 ![WrkForce](/WorkforceTable.PNG)
+
+#### **Examples of companies utilizing R.P.A. (2020)**
+
