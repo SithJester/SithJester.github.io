@@ -14,8 +14,7 @@ Robotic Process Automation(RPA) is quickly becoming the solution to many issues 
 We will be taking a look at the occupations within the United States that are most likely to be automated in part, if not entirely. 
 
 
-![Sectors](/SectorGraph.png){: .mx-auto.d-block :}
-
+![Sectors](/SectorGraph.png)
 
 
 As we can see in this table, the professions most likely to be completely automated (99% surety) are those with either a continuously repetetive process, face data that is extremely large, or has information processing that requires extreme precision. 
