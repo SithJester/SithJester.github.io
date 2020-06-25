@@ -14,13 +14,14 @@ Robotic Process Automation(RPA) is quickly becoming the solution to many issues 
 We will be taking a look at the occupations within the United States that are most likely to be automated in part, if not entirely. 
 
 
-![Sectors](/SectorGraph.png){: .mx-auto.d-block :}
+![Sectors](/SectorGraph.png){: .center-block :}
 
 
-Here's a useless table:
+
+As we can see in this table, the professions most likely to be completely automated (99% surety) are those with either a continuously repetetive process, face data that is extremely large, or has information processing that requires extreme precision. 
 
 | Occupation | Probability |
-| :------ |:--- | :--- |
+| :------ |:--- |
 | Cargo/Freight Agents | 99% | 
 | Data Entry Keyers | 99% |
 | Insurance Underwriters | 99% |
@@ -32,9 +33,9 @@ Here's a useless table:
 | Tax Preparers | 99% |
 | Telemarketers | 99% |
 
-It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
+![Crepe](htps://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
