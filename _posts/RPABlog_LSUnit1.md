@@ -14,7 +14,7 @@ Robotic Process Automation(RPA) is quickly becoming the solution to many issues 
 We will be taking a look at the occupations within the United States that are most likely to be automated in part, if not entirely. 
 
 
-![Sectors](/SectorGraph.png){: .center-block :}
+![Sectors](/SectorGraph.png){: .mx-auto.d-block :}
 
 
 
