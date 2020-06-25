@@ -33,7 +33,7 @@ As we can see in the table below, the professions most likely to be completely a
 
 The job sectors that are most likely to be automated are those that include occupations where an RPA tool is capable of processing large amounts of data more efficiently, allowing human controllers to identify relevant information faster. The overall result is that the business will save time and resources, providing customers with an elevated experience.
 
-![Sectors](/SectorGraph)
+![Sectors](/SectorGraph.png)
 
 Here's a code chunk:
 
