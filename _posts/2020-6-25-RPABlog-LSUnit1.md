@@ -7,12 +7,12 @@ gh-badge: [star, follow]
 tags: [RPA,Automation,Business]
 comments: false
 ---
-**How likely is A.I. to replace our workforce?**
 
-A.I., or Artificial Intelligence, has always captured the imagination of almost every medium. From movies, to comic books, and in passing conversation; Robots always seem to have a place in our future. Today, we use automated processes on a daily basis in everything from communication to microtransactions. Robotic Process Automation(RPA) is quickly becoming the solution to many issues companies face on a daily basis.
 
-##**What is RPA?** 
-The application of technology, used to digitize repetetive processes, or comb through large amounts of data quickly. An RPA tool can be as simple as generating a response to an email, or as complex as deploying thousands of bots, performing several jobs within a single network or Enterprise resource planning (ERP) software. 
+A.I., or Artificial Intelligence, has always captured the imagination of almost every medium. From movies, to comic books, and in passing conversation; Robots always seem to have a place in our future. Today, we use automated processes on a daily basis in everything from communication to microtransactions. 
+#### **What is RPA?** 
+Robotic Process Automation (RPA) is quickly becoming the solution to many issues companies face on a daily basis.
+It is the application of technology, used to digitize repetetive processes, or comb through large amounts of data quickly. An RPA tool can be as simple as generating a response to an email, or as complex as deploying thousands of bots, performing several jobs within a single network or Enterprise resource planning (ERP) software. 
 
 We will be taking a look at the occupations within the United States that are most likely to be automated in part, if not entirely. 
 
