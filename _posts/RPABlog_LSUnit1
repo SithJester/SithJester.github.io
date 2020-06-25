@@ -2,8 +2,6 @@
 layout: post
 title: How likely is A.I. to replace our workforce?
 subtitle: An exploration of occupations at risk of automation.
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, follow]
 tags: [RPA,Automation,Business]
 comments: false
 ---
@@ -14,19 +12,23 @@ Robotic Process Automation(RPA) is quickly becoming the solution to many issues 
 We will be taking a look at the occupations within the United States that are most likely to be automated in part, if not entirely. 
 
 
+![Sectors](C:\Users\mbrow\Pictures\SectorGraph){: .mx-auto.d-block :}
+
+
 Here's a useless table:
 
-| Number | Next number | Previous number |
+| Occupation | Probability |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+| Cargo/Freight Agents | 99% | 
+| Data Entry Keyers | 99% |
+| Insurance Underwriters | 99% |
+| Library Technicians | 99% |
+| Mathematic Technicians | 99% |
+| New Accounts Clerks | 99% |
+| Processing Machine Operators | 99% |
+| Sewers; Hand | 99% |
+| Tax Preparers | 99% |
+| Telemarketers | 99% |
 
 It can also be centered!
 
