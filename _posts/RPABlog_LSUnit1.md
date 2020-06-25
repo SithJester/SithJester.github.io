@@ -2,7 +2,7 @@
 layout: post
 title: How likely is A.I. to replace our workforce?
 subtitle: An exploration of occupations at risk of automation.
-gh-repo: daattali/beautiful-jekyll
+gh-repo: SithJester/BuildUnit1
 gh-badge: [star, follow]
 tags: [RPA,Automation,Business]
 comments: false
@@ -14,7 +14,7 @@ Robotic Process Automation(RPA) is quickly becoming the solution to many issues 
 We will be taking a look at the occupations within the United States that are most likely to be automated in part, if not entirely. 
 
 
-![Sectors](C:\Users\mbrow\Pictures\SectorGraph){: .mx-auto.d-block :}
+![Sectors](/SectorGraph.png){: .mx-auto.d-block :}
 
 
 Here's a useless table:
