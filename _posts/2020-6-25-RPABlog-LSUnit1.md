@@ -34,7 +34,7 @@ As we can see in this table, the professions most likely to be completely automa
 
 
 
-![Crepe](htps://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![USMAP](https://chart-studio.plotly.com/~Sithjester/1)
 
 Here's a code chunk:
 
